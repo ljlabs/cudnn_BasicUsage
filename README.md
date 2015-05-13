@@ -1,2 +1,1 @@
-# cudnn_BasicUsage
-i have failed to find an adeuit representation on the internet on how to use the cuda cudnn library therfor this repo will aim at trying to rectify the situation. i will poist code and anybody that has been having the same frustratiopns as i please feel free to post some code that can help others learn this amazing library
+I have failed to find an adequate representation on the internet on how to use the cuda cudnn library therefore this rope will aim at trying to rectify the situation. I will post code and anybody that has been having the same frustrations as I please feel free to post some code that can help others learn this amazing library
