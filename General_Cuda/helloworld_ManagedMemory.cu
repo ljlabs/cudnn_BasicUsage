@@ -17,10 +17,10 @@ __global__ void AplusB(int a, int b) {
 
 int main()
 {
-	AplusB <<< 1, 10 >>>(5, 10);
+	AplusB <<< 1, 1000 >>>(5, 10);
 	cudaDeviceSynchronize();
 	for (int i = 0; i < 1000; i++){
-		cout << ret[i];
+		cout << ret[i] << endl;
 	}
 	int a;
 	cin >> a;
